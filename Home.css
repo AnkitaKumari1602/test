@@ -1,0 +1,106 @@
+ .u-section-1 {
+  background-image: url(https://static.vecteezy.com/system/resources/previews/009/274/359/non_2x/india-independence-day-background-with-realistic-indian-flag-and-balloons-vector.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 893px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 503px;
+  min-height: 484px;
+  background-image: none;
+  margin: 409px 0 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 50px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Alatsi;
+  font-size: 3.75rem;
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 27px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-style: italic;
+  margin: 20px auto 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none none solid;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin: 40px auto 0 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 20.93% 36.61%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 736px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    background-position: 4.85% 36.61%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 564px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 756px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 377px;
+    margin-top: 378px;
+    margin-bottom: 1px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 15.75% 36.61%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 476px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.5rem;
+  }
+}
